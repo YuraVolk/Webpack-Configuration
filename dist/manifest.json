@@ -1,7 +1,7 @@
 {
     "name": "My project Structure",
     "short_name": "Project",
-    "start_url": "/Webpack-Configuration/",
+    "start_url": "/Webpack-Configuration-Pages/",
     "display": "standalone",
     "background_color": "#FEFEFE",
     "theme_color": "#333333",
